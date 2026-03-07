@@ -1,1 +1,6 @@
-This account is associated with github.com/paulmothapo
+What I Drink and Eat:
+
+ - TYPESCRIPT
+ - RUST
+ - PYTHON
+ - CSS
