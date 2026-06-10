@@ -2,10 +2,10 @@
 
 What I Drink and Eat: [paul](https://github.com/paulmothapo)
 
- - TYPESCRIPT
+ - TYPESCRIPT/JAVACSRIPT
  - RUST
  - PYTHON
- - CSS
+ - CSS?HTML
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
