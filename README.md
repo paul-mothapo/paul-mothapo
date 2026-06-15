@@ -2,7 +2,7 @@
 
 What I Drink and Eat: [paul](https://github.com/paulmothapo)
 
- - TYPESCRIPT/JAVASRIPT
+ - TYPESCRIPT/JAVASCRIPT
  - RUST
  - PYTHON
  - CSS?HTML
